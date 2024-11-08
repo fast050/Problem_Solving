@@ -1,0 +1,4 @@
+﻿  #3,48 show all client.cpp
+C:\Users\Admin\source\repos\(31,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Admin\source\repos\(35,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  #3,48 show all client.vcxproj -> C:\Users\Admin\source\repos\#3,48 show all client\x64\Debug\#3,48 show all client.exe

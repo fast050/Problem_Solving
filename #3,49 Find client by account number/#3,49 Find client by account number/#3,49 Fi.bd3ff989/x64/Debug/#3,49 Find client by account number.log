@@ -1,0 +1,4 @@
+﻿  #3,49 Find client by account number.cpp
+C:\Users\Admin\source\repos\(18,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Admin\source\repos\(23,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  #3,49 Find client by account number.vcxproj -> C:\Users\Admin\source\repos\#3,49 Find client by account number\#3,49 Find client by account number\x64\Debug\#3,49 Find client by account number.exe
