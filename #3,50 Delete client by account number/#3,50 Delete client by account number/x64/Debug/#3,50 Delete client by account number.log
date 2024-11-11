@@ -1,0 +1,5 @@
+﻿  #3,50 Delete client by account number.cpp
+C:\Users\Admin\source\repos\(28,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Admin\source\repos\(33,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\source\repos\(181,20): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  #3,50 Delete client by account number.vcxproj -> C:\Users\Admin\source\repos\#3,50 Delete client by account number\x64\Debug\#3,50 Delete client by account number.exe
