@@ -1,0 +1,5 @@
+﻿  #3,project Bank.cpp
+C:\Users\Admin\source\repos\(132,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Admin\source\repos\(135,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\(233,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  #3,project Bank.vcxproj -> C:\Users\Admin\source\repos\#3,project Bank\x64\Debug\#3,project Bank.exe
