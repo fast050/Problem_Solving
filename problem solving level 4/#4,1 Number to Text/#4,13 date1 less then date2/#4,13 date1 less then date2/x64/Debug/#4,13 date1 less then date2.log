@@ -1,0 +1,4 @@
+﻿  #4,13 date1 less then date2.cpp
+C:\Users\Admin\source\repos\(62,17): warning C4129: 'Y': unrecognized character escape sequence
+C:\Users\Admin\source\repos\(48,1): warning C4715: 'isDate1LessThenDate2': not all control paths return a value
+  #4,13 date1 less then date2.vcxproj -> C:\Users\Admin\source\repos\#4,13 date1 less then date2\x64\Debug\#4,13 date1 less then date2.exe
