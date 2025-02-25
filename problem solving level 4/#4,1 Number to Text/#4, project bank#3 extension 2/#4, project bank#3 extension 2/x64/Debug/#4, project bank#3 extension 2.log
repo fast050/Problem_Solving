@@ -1,0 +1,8 @@
+﻿  #4, project bank#3 extension 2.cpp
+C:\Users\Admin\source\repos\(72,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\source\repos\(1000,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\Admin\source\repos\(920,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\Admin\source\repos\(1027,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\Admin\source\repos\(960,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\Admin\source\repos\(878,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  #4, project bank#3 extension 2.vcxproj -> C:\Users\Admin\source\repos\#4, project bank#3 extension 2\x64\Debug\#4, project bank#3 extension 2.exe

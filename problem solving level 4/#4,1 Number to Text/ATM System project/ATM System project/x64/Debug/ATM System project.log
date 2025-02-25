@@ -1,0 +1,4 @@
+﻿  ATM System project.cpp
+C:\Users\Admin\source\repos\ATM System project\ATM System project\ATM System project.cpp(86,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Admin\source\repos\ATM System project\ATM System project\ATM System project.cpp(88,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ATM System project.vcxproj -> C:\Users\Admin\source\repos\ATM System project\x64\Debug\ATM System project.exe
