@@ -1,0 +1,26 @@
+﻿  #10 String Library Project.cpp
+C:\Users\Admin\source\repos\(14,21): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '../../#10%20String%20Library%20Project/#10%20String%20Library%20Project/#10%20String%20Library%20Project.cpp')
+  
+C:\Users\Admin\source\repos\(17,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#10%20String%20Library%20Project/#10%20String%20Library%20Project/#10%20String%20Library%20Project.cpp')
+  
+C:\Users\Admin\source\repos\(54,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#10%20String%20Library%20Project/#10%20String%20Library%20Project/#10%20String%20Library%20Project.cpp')
+  
+C:\Users\Admin\source\repos\(199,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#10%20String%20Library%20Project/#10%20String%20Library%20Project/#10%20String%20Library%20Project.cpp')
+  
+C:\Users\Admin\source\repos\(303,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#10%20String%20Library%20Project/#10%20String%20Library%20Project/#10%20String%20Library%20Project.cpp')
+  
+C:\Users\Admin\source\repos\(305,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#10%20String%20Library%20Project/#10%20String%20Library%20Project/#10%20String%20Library%20Project.cpp')
+  
+C:\Users\Admin\source\repos\(364,28): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '../../#10%20String%20Library%20Project/#10%20String%20Library%20Project/#10%20String%20Library%20Project.cpp')
+  
+C:\Users\Admin\source\repos\(366,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#10%20String%20Library%20Project/#10%20String%20Library%20Project/#10%20String%20Library%20Project.cpp')
+  
+  #10 String Library Project.vcxproj -> C:\Users\Admin\source\repos\#10 String Library Project\x64\Debug\#10 String Library Project.exe
