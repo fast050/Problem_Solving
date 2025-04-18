@@ -1,0 +1,26 @@
+﻿  #10 Project Date libaray.cpp
+C:\Users\Admin\source\repos\(33,21): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '../../#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray.cpp')
+  
+C:\Users\Admin\source\repos\(36,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray.cpp')
+  
+C:\Users\Admin\source\repos\(55,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray.cpp')
+  
+C:\Users\Admin\source\repos\(200,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray.cpp')
+  
+C:\Users\Admin\source\repos\(305,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray.cpp')
+  
+C:\Users\Admin\source\repos\(307,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray.cpp')
+  
+C:\Users\Admin\source\repos\(366,28): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '../../#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray.cpp')
+  
+C:\Users\Admin\source\repos\(368,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray/#10%20Project%20Date%20libaray.cpp')
+  
+  #10 Project Date libaray.vcxproj -> C:\Users\Admin\source\repos\#10 Project Date libaray\x64\Debug\#10 Project Date libaray.exe
