@@ -1,0 +1,26 @@
+﻿  #11 project Input Validate.cpp
+C:\Users\Admin\source\repos\(33,21): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '../../#11%20project%20Input%20Validate/#11%20project%20Input%20Validate/#11%20project%20Input%20Validate.cpp')
+  
+C:\Users\Admin\source\repos\(36,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#11%20project%20Input%20Validate/#11%20project%20Input%20Validate/#11%20project%20Input%20Validate.cpp')
+  
+C:\Users\Admin\source\repos\(55,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20project%20Input%20Validate/#11%20project%20Input%20Validate/#11%20project%20Input%20Validate.cpp')
+  
+C:\Users\Admin\source\repos\(200,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20project%20Input%20Validate/#11%20project%20Input%20Validate/#11%20project%20Input%20Validate.cpp')
+  
+C:\Users\Admin\source\repos\(305,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#11%20project%20Input%20Validate/#11%20project%20Input%20Validate/#11%20project%20Input%20Validate.cpp')
+  
+C:\Users\Admin\source\repos\(307,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20project%20Input%20Validate/#11%20project%20Input%20Validate/#11%20project%20Input%20Validate.cpp')
+  
+C:\Users\Admin\source\repos\(366,28): warning C4309: 'initializing': truncation of constant value
+  (compiling source file '../../#11%20project%20Input%20Validate/#11%20project%20Input%20Validate/#11%20project%20Input%20Validate.cpp')
+  
+C:\Users\Admin\source\repos\(368,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../#11%20project%20Input%20Validate/#11%20project%20Input%20Validate/#11%20project%20Input%20Validate.cpp')
+  
+  #11 project Input Validate.vcxproj -> C:\Users\Admin\source\repos\#11 project Input Validate\x64\Debug\#11 project Input Validate.exe
