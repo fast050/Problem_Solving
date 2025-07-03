@@ -1,0 +1,70 @@
+﻿  #11 Bank oop.cpp
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsUtils.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsUser.h(191,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+      C:\Users\Admin\source\repos\(27,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsInputValidate.h(88,69): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsBankClient.h(191,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+      C:\Users\Admin\source\repos\(35,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsBankClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsBankClient.h(424,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsBankClient.h(450,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsTransferScreen.h(48,49): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsTransferScreen.h(48,49): warning C4244:         with
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsTransferScreen.h(48,49): warning C4244:         [
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsTransferScreen.h(48,49): warning C4244:             T=double
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsTransferScreen.h(48,49): warning C4244:         ]
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsFindCurrencyScreen.h(49,16): warning C4551: function call missing argument list
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsFindCurrencyScreen.h(58,16): warning C4551: function call missing argument list
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsUpdateCurrencyRateScreen.h(33,15): warning C4551: function call missing argument list
+  (compiling source file '../../#11%20Bank%20oop/#11%20Bank%20oop/#11%20Bank%20oop.cpp')
+  
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsBankClient.h(370,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsBankClient.h(445,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\Admin\source\repos\#11 Bank oop\#11 Bank oop\clsUser.h(349,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  #11 Bank oop.vcxproj -> C:\Users\Admin\source\repos\#11 Bank oop\x64\Debug\#11 Bank oop.exe
